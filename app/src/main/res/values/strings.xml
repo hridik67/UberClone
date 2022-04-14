@@ -1,0 +1,13 @@
+<resources>
+    <string name="app_name">Uber1</string>
+    <string name="todo">todo</string>
+    <string name="rider">rider</string>
+    <string name="driver">driver</string>
+    <string name="get_started">getstarted</string>
+    <string name="title_activity_rider">Map</string>
+    <string name="call_uber">Call Uber</string>
+    <string name="call_an_uber">Call An Uber</string>
+    <string name="logout">Logout</string>
+    <string name="title_activity_driver_location">Map</string>
+    <string name="accept_request">Accept Request</string>
+</resources>
